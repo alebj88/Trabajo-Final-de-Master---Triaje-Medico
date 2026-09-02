@@ -1,0 +1,40 @@
+Diagnóstico Clínico Predictivo mediante Síntomas (Tabular complejo)
+Dataset: Disease Prediction Using Machine Learning / Symptom Checker (Disponible en repositorios públicos y Kaggle mediante datos médicos estructurados).
+
+Licencia: Dominio Público / CC0.
+
+De qué trata: Contiene registros estructurados de miles de pacientes donde las variables de entrada son una matriz dispersa (sparse matrix) de más de 130 síntomas reportados (fiebre, tos, dolor articular específico, patrones de fatiga, etc.) y la variable objetivo es el diagnóstico final consolidado entre más de 40 enfermedades distintas (desde afecciones comunes hasta patologías autoinmunes y crónicas).
+
+Por qué es ideal para tu TFM:
+
+Desafío metodológico: Al ser una matriz de síntomas predominantemente binaria o categórica de alta dimensionalidad, te obliga a salir de los algoritmos tradicionales e implementar técnicas avanzadas de selección de características (Feature Selection), reducción de dimensionalidad o modelos probabilísticos robustos (como redes bayesianas o clasificadores basados en ensamblados con arquitecturas profundas para datos tabulares).
+
+Enfoque práctico: Se alinea perfectamente con el diseño de motores de triaje médico automatizado o asistentes de pre-diagnóstico hospitalario.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning?resource=download
+
+Disease Prediction Using Machine Learning
+
+Use Machine Learning and Deep Learning models to classify 42 diseases !
+
+About Dataset
+Context
+During the time when Machine Learning and Deep Learning are booming so much , it is very important to understand that all this knowledge is not of any use if we cant apply it to different areas and impact the humanity.
+
+This dataset will help you apply your existing knowledge to great use. Applying Knowledge to field of Medical Science and making the task of Physician easy is the main purpose of this dataset. This dataset has 132 parameters on which 42 different types of diseases can be predicted.
+
+All the best !
+
+Content
+Complete Dataset consists of 2 CSV files . One of them is training and other is for testing your model.
+
+Each CSV file has 133 columns. 132 of these columns are symptoms that a person experiences and last column is the prognosis.
+
+These symptoms are mapped to 42 diseases you can classify these set of symptoms to.
+
+You are required to train your model on training data and test it on testing data
+
+Inspiration
+Just make your best effort to make world a better place by applying all the knowledge you have to different fields.
